@@ -1,0 +1,8 @@
+{
+  "name": "ANNA HOMESTAY",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "9c834bf5"
+}
